@@ -1,4 +1,4 @@
-# Azure Functions binding examples in C#.
+# Azure Functions binding examples in C#..
 
 The following samples are used as a basis for [Azure Functions 2.x+ binding](https://docs.microsoft.com/azure/azure-functions/functions-triggers-bindings#supported-bindings) examples in C#.  
 
